@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "name": "product1",
+        "distribuidor": "jack",
+        "price": 10,
+        "img": "https://tienda.sawers.com.bo/image/cache/catalog/0014-190x190.jpg"
+    },
+    {
+        "id": 2,
+        "name": "product2",
+        "distribuidor": "jack",
+        "price": 20,
+        "img": "https://tienda.sawers.com.bo/image/cache/catalog/0014-190x190.jpg"
+    },
+    {
+        "id": 3,
+        "name": "product3",
+        "distribuidor": "jack",
+        "price": 30,
+        "img": "https://tienda.sawers.com.bo/image/cache/catalog/0014-190x190.jpg"
+    },
+    {
+        "id": 4,
+        "name": "product4",
+        "distribuidor": "jack",
+        "price": 40,
+        "img": "https://tienda.sawers.com.bo/image/cache/catalog/0014-190x190.jpg"
+    },
+    {
+        "id": 5,
+        "name": "product5",
+        "distribuidor": "jack",
+        "price": 50,
+        "img": "https://tienda.sawers.com.bo/image/cache/catalog/0014-190x190.jpg"
+    }
+]
