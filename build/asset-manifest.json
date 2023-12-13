@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/tienda-articulos-tecnologicos/static/css/main.20526c4c.css",
+    "main.js": "/tienda-articulos-tecnologicos/static/js/main.91d3b80d.js",
+    "static/js/787.a521b789.chunk.js": "/tienda-articulos-tecnologicos/static/js/787.a521b789.chunk.js",
+    "static/media/logo.png": "/tienda-articulos-tecnologicos/static/media/logo.ef772501b8e1e013c4d8.png",
+    "static/media/img11.jpg": "/tienda-articulos-tecnologicos/static/media/img11.214122f18cb73bbc4171.jpg",
+    "static/media/img20.jpg": "/tienda-articulos-tecnologicos/static/media/img20.2858b92d61252bbaf26e.jpg",
+    "static/media/img10.jpg": "/tienda-articulos-tecnologicos/static/media/img10.18093b80725a405f1f6c.jpg",
+    "static/media/img33.jpg": "/tienda-articulos-tecnologicos/static/media/img33.cd64d36ee402ea10054e.jpg",
+    "static/media/produc1.jpg": "/tienda-articulos-tecnologicos/static/media/produc1.a4fadba079b06d41cc25.jpg",
+    "static/media/img22.jpg": "/tienda-articulos-tecnologicos/static/media/img22.a13f992c169d54568da5.jpg",
+    "static/media/logo.svg": "/tienda-articulos-tecnologicos/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/tienda-articulos-tecnologicos/index.html",
+    "static/media/git.svg": "/tienda-articulos-tecnologicos/static/media/git.4d4460fb79ba4d30f0b9dec52cf8e3b8.svg",
+    "main.20526c4c.css.map": "/tienda-articulos-tecnologicos/static/css/main.20526c4c.css.map",
+    "main.91d3b80d.js.map": "/tienda-articulos-tecnologicos/static/js/main.91d3b80d.js.map",
+    "787.a521b789.chunk.js.map": "/tienda-articulos-tecnologicos/static/js/787.a521b789.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.20526c4c.css",
+    "static/js/main.91d3b80d.js"
+  ]
+}
